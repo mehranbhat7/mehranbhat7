@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mehranbhat7
 - 👀 I’m interested... in frontend developing
 - 🌱 I’m currently... learning programing languages on loop
-- 📫 How to reach me... https://portfoliomehran.000.pe
+- 📫 How to reach me... https://next-03-tau.vercel.app
 
 <!---
 mehranbhat7/mehranbhat7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
